@@ -1,4 +1,5 @@
 .idea
 desktop.ini
 .ipynb_checkpoints/
-*drawio
+*.drawio
+*.bkp
